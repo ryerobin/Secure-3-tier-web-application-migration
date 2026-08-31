@@ -8,7 +8,7 @@ This project demonstrates execution and deployment of a secure, available 3-tier
 * **Security Barriers** Created and configured custom security groups('web-sg' and db-sg'), mapping inbound rules to allow web tier traffic to communicate with MySQL RDS database, while blocking external communication.
 * **Compute & Web Tier** Deployed an EC2 instance running Apache Web Server ('httpd') through Linux initialization
 
-##Agile Execution Profile (CSM)
+## Agile Execution Profile (CSM)
 Managed the deployment using Agile methodologies and framework using the Github projects tab as a Scrum Board
 * **Sprint Cycle** Broke down epics into executable user stories
 * **Sprint Retrospective & Lessons Learned** Resovled network blocks regarding subnets and internet gateways.
